@@ -1,0 +1,11 @@
+C:\Users\Bibek\source\repos\Form1\bin\Debug\netcoreapp3.1\Form1.exe
+C:\Users\Bibek\source\repos\Form1\bin\Debug\netcoreapp3.1\Form1.deps.json
+C:\Users\Bibek\source\repos\Form1\bin\Debug\netcoreapp3.1\Form1.runtimeconfig.json
+C:\Users\Bibek\source\repos\Form1\bin\Debug\netcoreapp3.1\Form1.runtimeconfig.dev.json
+C:\Users\Bibek\source\repos\Form1\bin\Debug\netcoreapp3.1\Form1.dll
+C:\Users\Bibek\source\repos\Form1\bin\Debug\netcoreapp3.1\Form1.pdb
+C:\Users\Bibek\source\repos\Form1\obj\Debug\netcoreapp3.1\Form1.csprojAssemblyReference.cache
+C:\Users\Bibek\source\repos\Form1\obj\Debug\netcoreapp3.1\Form1.AssemblyInfoInputs.cache
+C:\Users\Bibek\source\repos\Form1\obj\Debug\netcoreapp3.1\Form1.AssemblyInfo.cs
+C:\Users\Bibek\source\repos\Form1\obj\Debug\netcoreapp3.1\Form1.dll
+C:\Users\Bibek\source\repos\Form1\obj\Debug\netcoreapp3.1\Form1.pdb

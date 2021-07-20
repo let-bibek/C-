@@ -1,0 +1,5 @@
+C:\Users\Bibek\source\repos\foreach_loop\bin\Debug\foreach_loop.exe.config
+C:\Users\Bibek\source\repos\foreach_loop\bin\Debug\foreach_loop.exe
+C:\Users\Bibek\source\repos\foreach_loop\bin\Debug\foreach_loop.pdb
+C:\Users\Bibek\source\repos\foreach_loop\obj\Debug\foreach_loop.exe
+C:\Users\Bibek\source\repos\foreach_loop\obj\Debug\foreach_loop.pdb

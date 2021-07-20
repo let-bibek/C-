@@ -1,0 +1,6 @@
+C:\Users\Bibek\source\repos\even numbers\bin\Debug\even numbers.exe.config
+C:\Users\Bibek\source\repos\even numbers\bin\Debug\even numbers.exe
+C:\Users\Bibek\source\repos\even numbers\bin\Debug\even numbers.pdb
+C:\Users\Bibek\source\repos\even numbers\obj\Debug\even numbers.csprojAssemblyReference.cache
+C:\Users\Bibek\source\repos\even numbers\obj\Debug\even numbers.exe
+C:\Users\Bibek\source\repos\even numbers\obj\Debug\even numbers.pdb

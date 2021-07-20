@@ -1,0 +1,11 @@
+C:\Users\Bibek\source\repos\firstApplication\bin\Debug\netcoreapp3.1\firstApplication.exe
+C:\Users\Bibek\source\repos\firstApplication\bin\Debug\netcoreapp3.1\firstApplication.deps.json
+C:\Users\Bibek\source\repos\firstApplication\bin\Debug\netcoreapp3.1\firstApplication.runtimeconfig.json
+C:\Users\Bibek\source\repos\firstApplication\bin\Debug\netcoreapp3.1\firstApplication.runtimeconfig.dev.json
+C:\Users\Bibek\source\repos\firstApplication\bin\Debug\netcoreapp3.1\firstApplication.dll
+C:\Users\Bibek\source\repos\firstApplication\bin\Debug\netcoreapp3.1\firstApplication.pdb
+C:\Users\Bibek\source\repos\firstApplication\obj\Debug\netcoreapp3.1\firstApplication.csprojAssemblyReference.cache
+C:\Users\Bibek\source\repos\firstApplication\obj\Debug\netcoreapp3.1\firstApplication.AssemblyInfoInputs.cache
+C:\Users\Bibek\source\repos\firstApplication\obj\Debug\netcoreapp3.1\firstApplication.AssemblyInfo.cs
+C:\Users\Bibek\source\repos\firstApplication\obj\Debug\netcoreapp3.1\firstApplication.dll
+C:\Users\Bibek\source\repos\firstApplication\obj\Debug\netcoreapp3.1\firstApplication.pdb

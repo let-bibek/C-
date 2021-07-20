@@ -1,0 +1,5 @@
+C:\Users\Bibek\source\repos\Area using oop\bin\Debug\Area using oop.exe.config
+C:\Users\Bibek\source\repos\Area using oop\bin\Debug\Area using oop.exe
+C:\Users\Bibek\source\repos\Area using oop\bin\Debug\Area using oop.pdb
+C:\Users\Bibek\source\repos\Area using oop\obj\Debug\Area using oop.exe
+C:\Users\Bibek\source\repos\Area using oop\obj\Debug\Area using oop.pdb

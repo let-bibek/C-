@@ -1,0 +1,5 @@
+C:\Users\Bibek\source\repos\switch\bin\Debug\@switch.exe.config
+C:\Users\Bibek\source\repos\switch\bin\Debug\@switch.exe
+C:\Users\Bibek\source\repos\switch\bin\Debug\@switch.pdb
+C:\Users\Bibek\source\repos\switch\obj\Debug\@switch.exe
+C:\Users\Bibek\source\repos\switch\obj\Debug\@switch.pdb

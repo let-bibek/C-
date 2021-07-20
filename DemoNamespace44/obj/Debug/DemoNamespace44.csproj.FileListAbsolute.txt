@@ -1,0 +1,6 @@
+C:\Users\Bibek\source\repos\DemoNamespace44\bin\Debug\DemoNamespace44.exe.config
+C:\Users\Bibek\source\repos\DemoNamespace44\bin\Debug\DemoNamespace44.exe
+C:\Users\Bibek\source\repos\DemoNamespace44\bin\Debug\DemoNamespace44.pdb
+C:\Users\Bibek\source\repos\DemoNamespace44\obj\Debug\DemoNamespace44.csprojAssemblyReference.cache
+C:\Users\Bibek\source\repos\DemoNamespace44\obj\Debug\DemoNamespace44.exe
+C:\Users\Bibek\source\repos\DemoNamespace44\obj\Debug\DemoNamespace44.pdb

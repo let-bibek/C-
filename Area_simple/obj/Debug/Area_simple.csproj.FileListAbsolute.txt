@@ -1,0 +1,6 @@
+C:\Users\Bibek\source\repos\Area_simple\bin\Debug\Area_simple.exe.config
+C:\Users\Bibek\source\repos\Area_simple\bin\Debug\Area_simple.exe
+C:\Users\Bibek\source\repos\Area_simple\bin\Debug\Area_simple.pdb
+C:\Users\Bibek\source\repos\Area_simple\obj\Debug\Area_simple.csprojAssemblyReference.cache
+C:\Users\Bibek\source\repos\Area_simple\obj\Debug\Area_simple.exe
+C:\Users\Bibek\source\repos\Area_simple\obj\Debug\Area_simple.pdb
